@@ -1,5 +1,6 @@
 import Hero from "./Component/Hero";
-import "./App.css";
+// import "Brand Page/src/App.css";
+import "../src/App.css";
 import NavBar from "./Component/NavBar";
 const App = () => {
   return (
